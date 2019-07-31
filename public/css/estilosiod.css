@@ -1,0 +1,7 @@
+.reprobado {
+    color: red;
+}
+
+input[type="radio"]{
+    cursor: pointer;
+}
